@@ -1,1 +1,1 @@
-# sec02-_git
+# Seccion 02 - Git Basics
